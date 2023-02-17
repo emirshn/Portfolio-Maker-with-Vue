@@ -26,5 +26,5 @@ A demo: https://streamable.com/n54w7x
 
 # Set database page. You can edit your database from this page.
 ![image](https://user-images.githubusercontent.com/64266261/219786882-1d2d15b6-38b9-4b07-a30d-c8cb5b823f99.png)
-Example form of adding projects.
+# Example form of adding projects.
 ![image](https://user-images.githubusercontent.com/64266261/219786983-68044bfa-5230-4301-9acb-b8f991a9f7c8.png)
