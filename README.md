@@ -9,6 +9,7 @@ There are bugs of course i add checks for data but i cant be not enough, you can
 For installing simply use npm install and npm run serve in terminal
 
 A demo: https://streamable.com/n54w7x
+Images i tested with created by amazing artist Anato Finnstark.https://twitter.com/AFinnstark
 
 # Main pages.
 ![image](https://user-images.githubusercontent.com/64266261/219785938-efb174cb-82b8-40d7-9303-8296c02a7961.png)
