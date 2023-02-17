@@ -2,7 +2,7 @@
 A portfolia maker tool for everyone but mainly focuses on developers made with vue. 
 You can create your portfolio and resume with adding projects, contact informations etc. using this tool.
  
-I done this project myself but i take some visual things from other places. I dont know how design webpages because of that i directly rendered information on pages. It uses core vue features like  vuex, routers, slots etc. It is also using firebase as database, users should change database link in firebase.js.
+I done this project myself but i take some visual things from other places. I dont know how design  webpages with cool styles because of that i directly rendered information on pages. It uses core vue features like  vuex, routers, slots etc. It is also using firebase as database, users should change database link in firebase.js.
 
 There are bugs of course i add checks for data but i cant be not enough, you can experience some bugs while adding data to database, please try to fill all information in forms. Links can be empty.
 
